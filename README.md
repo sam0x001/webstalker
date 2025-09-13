@@ -68,8 +68,8 @@ MX : mail.example.com
 ```
 
 ## Screenshots
-<img src="Screenshots/1.jpg" alt="Help message" />
-<img src="Screenshots/2.jpg" alt="screenshot" />
+<img src="screenshots/1.jpg" alt="Help message" />
+<img src="screenshots/2.jpg" alt="screenshot" />
 
 ## Contact
 - GitHub: [github.com/sam0x001](https://github.com/sam0x001)  
