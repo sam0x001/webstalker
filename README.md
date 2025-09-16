@@ -23,7 +23,7 @@ venv\Scripts\activate # Windows
 ```bash
 pip install -r requirements.txt
 ```
-- Note: You need scuritytrails API key to use subdomain enumeration feature
+- Note: You need securitytrails API key to use subdomain enumeration feature
 ## Usage
 ```bash
 python main.py -d example.com [OPTIONS]
